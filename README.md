@@ -27,14 +27,15 @@ Expertise:
 <br>
 Portfolio Highlights:
 <br>
-🔥 Project X: Developed a cutting-edge e-commerce platform using React, offering a seamless shopping experience through intuitive UI/UX and smooth animations.
-<br>
-<br>
-🌈 Project Y: Transformed a client's vision into reality by crafting a visually captivating landing page that not only increased user engagement but also received accolades for its design.
-<br>
-<br>
-🚗 Project Z: Created an interactive car configurator that allows users to customize and visualize their dream cars in real time, employing advanced frontend techniques for a lifelike experience.
-<br>
+🖥️ PC Configurator: Engineered an intuitive PC configuration platform using advanced algorithms, simplifying custom PC building. Languages: JavaScript, HTML, CSS.
+<br><br>
+🎮 Steam Monopoly: Revamped Monopoly with a captivating twist—immersing players in a Steam games-themed world. Demonstrated creativity in gaming and development convergence. Languages: JavaScript, HTML, CSS.
+<br><br>
+📊 React Admin Dashboard: Developed a powerful admin dashboard using React, enhancing data visualization and user management. Language: React.
+<br><br>
+🏢 Forpostfund: Created a donation platform supporting the Ukrainian army. Utilized Bootstrap alongside HTML, CSS, and JS. Languages: JavaScript, HTML, CSS, Bootstrap.
+<br><br>
+📂 Personal Portfolio: Crafted a portfolio website showcasing my skills and creativity. Developed using React, it displays my projects and frontend proficiency. Language: React.
 <br>
 Personal Drive:<br>My passion for frontend development isn't just limited to coding; it's about making a difference in the digital landscape. I'm on a mission to elevate user experiences by crafting innovative applications that set new industry standards.
 <br>
