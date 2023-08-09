@@ -8,23 +8,6 @@ Greetings! I'm a 21-year-old frontend developer hailing from Ukraine, with a pas
 As a young and driven developer, I thrive on pushing the boundaries of creativity and innovation in the frontend realm. My journey began with a fascination for the art of web development, and over the years, I've honed my skills to become proficient in crafting dynamic user interfaces that seamlessly merge form and function.
 <br>
 <br>
-<h2>Expertise:</h2>
-<br>
-🚀 React Enthusiast: React has become my playground, allowing me to craft dynamic and responsive user interfaces. I excel at harnessing the power of React to deliver seamless and engaging experiences.
-<br>
-<br>
-🎨 Design Connoisseur: My love for aesthetics is reflected in every line of code I write. I don't just build applications; I create visually stunning masterpieces that leave a lasting impact.
-<br>
-<br>
-🎯 Attention to Detail: I believe that the smallest details can make the biggest difference. Pixel-perfect precision and a relentless pursuit of perfection are embedded in my coding philosophy.
-<br>
-<br>
-🌐 Web Technologies Aficionado: Beyond React, I'm well-versed in HTML, CSS, and JavaScript. I keep myself updated with the latest web technologies to ensure my creations are at the forefront of innovation.
-<br>
-<br>
-🤝 Collaborative Spirit: While I thrive as an independent developer, I'm also an excellent team player. I love collaborating with fellow developers, designers, and stakeholders to bring ideas to life.
-<br>
-<br>
 <h2> Portfolio Highlights:</h2>
 <br>
 🖥️ PC Configurator: Engineered an intuitive PC configuration platform using advanced algorithms, simplifying custom PC building. Languages: JavaScript, HTML, CSS.
