@@ -19,8 +19,6 @@ Greetings! I'm a 21-year-old frontend developer hailing from Ukraine, with a pas
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jsoneclick&icon=5&color=12)](https://visitcount.itsvg.in)
