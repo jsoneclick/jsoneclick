@@ -3,7 +3,7 @@
 Greetings! I'm a 21-year-old frontend developer hailing from Ukraine, with a passion for creating visually appealing, modern, and one-of-a-kind web applications. Armed with expertise in React and a keen eye for design, I specialize in transforming ideas into interactive and captivating digital experiences.
 <br>
 <br>
-## About Me:
+<h2> About Me:</h2>
 <br>
 As a young and driven developer, I thrive on pushing the boundaries of creativity and innovation in the frontend realm. My journey began with a fascination for the art of web development, and over the years, I've honed my skills to become proficient in crafting dynamic user interfaces that seamlessly merge form and function.
 <br>
