@@ -8,7 +8,7 @@ Greetings! I'm a 21-year-old frontend developer hailing from Ukraine, with a pas
 As a young and driven developer, I thrive on pushing the boundaries of creativity and innovation in the frontend realm. My journey began with a fascination for the art of web development, and over the years, I've honed my skills to become proficient in crafting dynamic user interfaces that seamlessly merge form and function.
 <br>
 <br>
-## Expertise:
+<h2>Expertise:</h2>
 <br>
 🚀 React Enthusiast: React has become my playground, allowing me to craft dynamic and responsive user interfaces. I excel at harnessing the power of React to deliver seamless and engaging experiences.
 <br>
@@ -25,7 +25,7 @@ As a young and driven developer, I thrive on pushing the boundaries of creativit
 🤝 Collaborative Spirit: While I thrive as an independent developer, I'm also an excellent team player. I love collaborating with fellow developers, designers, and stakeholders to bring ideas to life.
 <br>
 <br>
-## Portfolio Highlights:
+<h2> Portfolio Highlights:</h2>
 <br>
 🖥️ PC Configurator: Engineered an intuitive PC configuration platform using advanced algorithms, simplifying custom PC building. Languages: JavaScript, HTML, CSS.
 <br><br>
@@ -37,10 +37,12 @@ As a young and driven developer, I thrive on pushing the boundaries of creativit
 <br><br>
 📂 Personal Portfolio: Crafted a portfolio website showcasing my skills and creativity. Developed using React, it displays my projects and frontend proficiency. Language: React.
 <br>
-##Personal Drive:<br>My passion for frontend development isn't just limited to coding; it's about making a difference in the digital landscape. I'm on a mission to elevate user experiences by crafting innovative applications that set new industry standards.
+<h2>Personal Drive:</h2>
+<br>
+My passion for frontend development isn't just limited to coding; it's about making a difference in the digital landscape. I'm on a mission to elevate user experiences by crafting innovative applications that set new industry standards.
 <br>
 <br>
-## Get in Touch:
+<h2> Get in Touch:</h2>
 <br>
 If you're seeking a dedicated and forward-thinking frontend developer who is committed to pushing boundaries and delivering unparalleled digital experiences, I'd love to connect with you. Let's collaborate to turn your vision into a reality that leaves users in awe.
 <br>
