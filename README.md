@@ -10,15 +10,15 @@ As a young and driven developer, I thrive on pushing the boundaries of creativit
 <br>
 <h2> Portfolio Highlights:</h2>
 <br>
-🖥️<h3> PC Configurator:</h3> Engineered an intuitive PC configuration platform using advanced algorithms, simplifying custom PC building. Languages: JavaScript, HTML, CSS.
+🖥️ PC Configurator: Engineered an intuitive PC configuration platform using advanced algorithms, simplifying custom PC building. Languages: JavaScript, HTML, CSS.
 <br><br>
-🎮 <h3>Steam Monopoly:</h3> Revamped Monopoly with a captivating twist—immersing players in a Steam games-themed world. Demonstrated creativity in gaming and development convergence. Languages: JavaScript, HTML, CSS.
+🎮 Steam Monopoly: Revamped Monopoly with a captivating twist—immersing players in a Steam games-themed world. Demonstrated creativity in gaming and development convergence. Languages: JavaScript, HTML, CSS.
 <br><br>
-📊 <h3>React Admin Dashboard:</h3> Developed a powerful admin dashboard using React, enhancing data visualization and user management. Language: React.
+📊 React Admin Dashboard: Developed a powerful admin dashboard using React, enhancing data visualization and user management. Language: React.
 <br><br>
-🏢 <h3>Forpostfund:</h3> Created a donation platform supporting the Ukrainian army. Utilized Bootstrap alongside HTML, CSS, and JS. Languages: JavaScript, HTML, CSS, Bootstrap.
+🏢 Forpostfund: Created a donation platform supporting the Ukrainian army. Utilized Bootstrap alongside HTML, CSS, and JS. Languages: JavaScript, HTML, CSS, Bootstrap.
 <br><br>
-📂 <h3>Personal Portfolio:</h3> Crafted a portfolio website showcasing my skills and creativity. Developed using React, it displays my projects and frontend proficiency. Language: React.
+📂 Personal Portfolio: Crafted a portfolio website showcasing my skills and creativity. Developed using React, it displays my projects and frontend proficiency. Language: React.
 <br>
 <h2>Personal Drive:</h2>
 <br>
