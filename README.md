@@ -39,7 +39,12 @@ Portfolio Highlights:
 Personal Drive:<br>My passion for frontend development isn't just limited to coding; it's about making a difference in the digital landscape. I'm on a mission to elevate user experiences by crafting innovative applications that set new industry standards.
 <br>
 <br>
-Get in Touch:<br>If you're seeking a dedicated and forward-thinking frontend developer who is committed to pushing boundaries and delivering unparalleled digital experiences, I'd love to connect with you. Let's collaborate to turn your vision into a reality that leaves users in awe.<br><br>Let's build the future of the web, one stunning application at a time.
+Get in Touch:
+<br>
+If you're seeking a dedicated and forward-thinking frontend developer who is committed to pushing boundaries and delivering unparalleled digital experiences, I'd love to connect with you. Let's collaborate to turn your vision into a reality that leaves users in awe.
+<br>
+<br>
+Let's build the future of the web, one stunning application at a time.
 <br>
 <br>
 Thank you for visiting my portfolio, and I'm excited to embark on new and exciting projects together! 
@@ -56,9 +61,3 @@ Thank you for visiting my portfolio, and I'm excited to embark on new and exciti
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=jsoneclick&icon=5&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
