@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://raw.githubusercontent.com/jsoneclick/git-jsoneclick-personal-portfolio/main/src/images/meFramesForAnimation/meFrame1.png?token=GHSAT0AAAAAACFMCRVKLU5XDPNPVF3JHJGSZGTO6HA))](https://jsoneclick.io)
+[![MasterHead](https://raw.githubusercontent.com/jsoneclick/git-jsoneclick-personal-portfolio/main/src/images/meFramesForAnimation/meFrame1.png?token=GHSAT0AAAAAACFMCRVKLU5XDPNPVF3JHJGSZGTO6HA)](https://jsoneclick.io)
 <h1 align="center">Hi 👋, I'm Starzhinskyi Vladyslav</h1>
 <h3 align="center">A passionate self-taught frontend(React) developer from Ukraine</h3>
 
