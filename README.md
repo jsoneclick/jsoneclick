@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/jsoneclick/git-jsoneclick-personal-portfolio/main/src/images/meFramesForAnimation/meFrame1.png?token=GHSAT0AAAAAACFMCRVKLU5XDPNPVF3JHJGSZGTO6HA)](https://jsoneclick.io)
+[![MasterHead](https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Pudge_icon.png/revision/latest/scale-to-width-down/300?cb=20160411211506)](https://jsoneclick.io)
 <h1 align="center">Hi 👋, I'm Starzhinskyi Vladyslav</h1>
 <h3 align="center">A passionate self-taught frontend(React) developer from Ukraine</h3>
 
