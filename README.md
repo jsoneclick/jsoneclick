@@ -3,12 +3,12 @@
 Greetings! I'm a 21-year-old frontend developer hailing from Ukraine, with a passion for creating visually appealing, modern, and one-of-a-kind web applications. Armed with expertise in React and a keen eye for design, I specialize in transforming ideas into interactive and captivating digital experiences.
 <br>
 <br>
-##About Me:
+## About Me:
 <br>
 As a young and driven developer, I thrive on pushing the boundaries of creativity and innovation in the frontend realm. My journey began with a fascination for the art of web development, and over the years, I've honed my skills to become proficient in crafting dynamic user interfaces that seamlessly merge form and function.
 <br>
 <br>
-##Expertise:
+## Expertise:
 <br>
 🚀 React Enthusiast: React has become my playground, allowing me to craft dynamic and responsive user interfaces. I excel at harnessing the power of React to deliver seamless and engaging experiences.
 <br>
@@ -25,7 +25,7 @@ As a young and driven developer, I thrive on pushing the boundaries of creativit
 🤝 Collaborative Spirit: While I thrive as an independent developer, I'm also an excellent team player. I love collaborating with fellow developers, designers, and stakeholders to bring ideas to life.
 <br>
 <br>
-##Portfolio Highlights:
+## Portfolio Highlights:
 <br>
 🖥️ PC Configurator: Engineered an intuitive PC configuration platform using advanced algorithms, simplifying custom PC building. Languages: JavaScript, HTML, CSS.
 <br><br>
@@ -40,7 +40,7 @@ As a young and driven developer, I thrive on pushing the boundaries of creativit
 ##Personal Drive:<br>My passion for frontend development isn't just limited to coding; it's about making a difference in the digital landscape. I'm on a mission to elevate user experiences by crafting innovative applications that set new industry standards.
 <br>
 <br>
-###Get in Touch:
+## Get in Touch:
 <br>
 If you're seeking a dedicated and forward-thinking frontend developer who is committed to pushing boundaries and delivering unparalleled digital experiences, I'd love to connect with you. Let's collaborate to turn your vision into a reality that leaves users in awe.
 <br>
