@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/1047641703781249087/1139168562385268857/banner.png)](https://jsoneclick.io)
+[![MasterHead]()](https://jsoneclick.io)
 # 💫 About Me:
 Greetings! I'm a 21-year-old frontend developer hailing from Ukraine, with a passion for creating visually appealing, modern, and one-of-a-kind web applications. Armed with expertise in React and a keen eye for design, I specialize in transforming ideas into interactive and captivating digital experiences.
 <br>
