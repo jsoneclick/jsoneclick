@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/view/%D0%BF%D1%83%D0%B4%D0%B6-%D0%B4%D0%B6%D0%B0%D0%B4%D0%B6-%D1%80%D0%B8%D0%B4%D0%B6-%D0%B1%D1%83%D1%87-%D0%B1%D0%B0%D1%87%D0%B5%D1%80-gif-22617457)](https://jsoneclick.io)
+[![MasterHead](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aHVtYW58ZW58MHx8MHx8fDA%3D&w=1000&q=80)](https://jsoneclick.io)
 # 💫 About Me:
 Greetings! I'm a 21-year-old frontend developer hailing from Ukraine, with a passion for creating visually appealing, modern, and one-of-a-kind web applications. Armed with expertise in React and a keen eye for design, I specialize in transforming ideas into interactive and captivating digital experiences.
 <br>
