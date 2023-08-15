@@ -3,22 +3,9 @@
 Greetings! I'm a 21-year-old frontend developer hailing from Ukraine, with a passion for creating visually appealing, modern, and one-of-a-kind web applications. Armed with expertise in React and a keen eye for design, I specialize in transforming ideas into interactive and captivating digital experiences.
 <br>
 <br>
-<h2> About Me:</h2>
 <br>
 As a young and driven developer, I thrive on pushing the boundaries of creativity and innovation in the frontend realm. My journey began with a fascination for the art of web development, and over the years, I've honed my skills to become proficient in crafting dynamic user interfaces that seamlessly merge form and function.
 <br>
-<br>
-<h2> Portfolio Highlights:</h2>
-<br>
-🖥️ PC Configurator: Engineered an intuitive PC configuration platform using advanced algorithms, simplifying custom PC building. Languages: JavaScript, HTML, CSS.
-<br><br>
-🎮 Steam Monopoly: Revamped Monopoly with a captivating twist—immersing players in a Steam games-themed world. Demonstrated creativity in gaming and development convergence. Languages: JavaScript, HTML, CSS.
-<br><br>
-📊 React Admin Dashboard: Developed a powerful admin dashboard using React, enhancing data visualization and user management. Language: React.
-<br><br>
-🏢 Forpostfund: Created a donation platform supporting the Ukrainian army. Utilized Bootstrap alongside HTML, CSS, and JS. Languages: JavaScript, HTML, CSS, Bootstrap.
-<br><br>
-📂 Personal Portfolio: Crafted a portfolio website showcasing my skills and creativity. Developed using React, it displays my projects and frontend proficiency. Language: React.
 <br>
 <h2>Personal Drive:</h2>
 <br>
