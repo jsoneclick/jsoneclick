@@ -5,7 +5,6 @@ development. With a solid foundation built over 2 years of non-commercial experi
 visually stunning and highly functional websites that captivate users and deliver seamless experiences.
 My journey in the world of coding has been an exhilarating one, and my GitHub profile 
 (https://github.com/jsoneclick) stands as a testament to my dedication and hard work.
-
 <br>
 <h2>Personal Drive:</h2>
 <br>
