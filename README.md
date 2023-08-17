@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/jsoneclick/jsoneclick/main/git-hub%20banner.png)](https://jsoneclick.io)
+[![MasterHead](https://raw.githubusercontent.com/jsoneclick/jsoneclick/main/ghb.png)](https://jsoneclick.io)
 # 💫 About Me:
 Greetings! I'm a 21-year-old frontend developer hailing from Ukraine, with a passion for creating visually appealing, modern, and one-of-a-kind web applications. Armed with expertise in React and a keen eye for design, I specialize in transforming ideas into interactive and captivating digital experiences.
 <br>
