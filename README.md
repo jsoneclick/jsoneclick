@@ -5,12 +5,11 @@ development. With a solid foundation built over 2 years of non-commercial experi
 visually stunning and highly functional websites that captivate users and deliver seamless experiences.
 My journey in the world of coding has been an exhilarating one, and my GitHub profile 
 (https://github.com/jsoneclick) stands as a testament to my dedication and hard work.
-<br>
 <h2>Personal Drive:</h2>
 <br>
 My passion for frontend development isn't just limited to coding; it's about making a difference in the digital landscape. I'm on a mission to elevate user experiences by crafting innovative applications that set new industry standards.
 <br>
-<h2> Get in Touch:</h2>
+<h2>Get in Touch:</h2>
 <br>
 If you're seeking a dedicated and forward-thinking frontend developer who is committed to pushing boundaries and delivering unparalleled digital experiences, I'd love to connect with you. Let's collaborate to turn your vision into a reality that leaves users in awe.
 <br>
